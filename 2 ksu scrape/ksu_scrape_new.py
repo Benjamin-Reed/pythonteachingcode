@@ -5,7 +5,7 @@ This code was updated in August 2021 to use the new KSU news feed design.
 from bs4 import BeautifulSoup
 import requests
 import csv
-from datetime import datetimegfhfgh
+from datetime import datetime
 
 def scrape_ksu(ksu_url,page):
     '''
