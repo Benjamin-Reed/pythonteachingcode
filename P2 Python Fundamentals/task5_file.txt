@@ -1,0 +1,10 @@
+Line---1
+Line---2append#1
+
+Line--append#2
+-5
+Lineappend#3
+---7
+Liappend#4
+ne---9
+Line--10
